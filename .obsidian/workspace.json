@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L8-L9 -- CSP (Conceptual)/AC-3.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L8-L9 -- CSP (Conceptual)/AC-3.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L8-L9 -- CSP (Conceptual)/AC-3.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L8-L9 -- CSP (Conceptual)/AC-3.md"
+                "file": "README.md"
               }
             }
           }
@@ -257,8 +257,8 @@
   },
   "active": "7711d1cce17ee7ba",
   "lastOpenFiles": [
-    "L8-L9 -- CSP (Conceptual)/Backtracking.md",
     "L8-L9 -- CSP (Conceptual)/AC-3.md",
+    "L8-L9 -- CSP (Conceptual)/Backtracking.md",
     "L8-L9 -- CSP (Conceptual)/CSP Problem Formulation.md",
     "L6-L7 -- Optimal Game Play/Basic Idea of Pruning.md",
     "L6-L7 -- Optimal Game Play/Revising MINIMAX.md",
@@ -268,7 +268,7 @@
     "L5 -- A-star, Hill Climbing/Revising heuristic functions.md",
     "L5 -- A-star, Hill Climbing/Revising A-Star.md",
     "L5 -- A-star, Hill Climbing/Hill Climbing.md",
-    "Topics.md",
+    "README.md",
     "L8-L9 -- CSP (Conceptual)",
     "L6-L7 -- Optimal Game Play",
     "L5 -- A-star, Hill Climbing"

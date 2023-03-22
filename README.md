@@ -1,6 +1,6 @@
 L5 -- A-Star, Hill Climbing:
 
-- [ ] [Revising heuristic functions](./L5/Revising\ heuristic\ functions.md)
+- [ ] [Revising heuristic functions](obsidian://open?vault=AI_Exam_2&file=L5%2FRevising%20heuristic%20functions)
 - [ ] Revising A-Star 
 - [ ] Hill Climbing:
     - [ ] Basic Concepts

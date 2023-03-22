@@ -1,6 +1,6 @@
 L5 -- A-Star, Hill Climbing:
 
-- [ ] Revising heuristic functions
+- [ ] [Revising heuristic functions](./L5/Revising\ heuristic\ functions.md)
 - [ ] Revising A-Star 
 - [ ] Hill Climbing:
     - [ ] Basic Concepts

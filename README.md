@@ -18,7 +18,9 @@ L8-L9 -- CSP (conceptual)
 
 - [ ] CSP problem formulation
     - [ ] Identifying Variables, Domains and Constraints.
-- [ ] AC-3
-    - [ ] Steps involved.
-    - [ ] Time Complexity.
+- [x] AC-3
+    - [x] Steps involved.
+    - [ ] Select-Unassigned-Variable
+    - [ ] Order-Domain-Values
+    - [x] Time Complexity.
 - [ ] Backtracking

@@ -69,9 +69,20 @@
 				1. (1,2) -> Yes, keep
 		3. B has not changed.
 	7. The problem is now Arc Consistent.
-## SELECT-UNASSIGNED-VARIABLE
+## SELECT-UNASSIGNED-VARIABLE 
+### (Minimum Remaining Values Heuristic)
 
-## ORDER-DOMAIN
+Returns a variable that:
+	1. Is not assigned.
+	2. has the fewest number of remaining values in its domain:
+		1. If there is a tie; pick whichever has the most constraints.
+
+## ORDER-DOMAIN-VALUES
+### (Least Constraining Value Herustic)
+
+Returns a list of values that:
+	Are in the domain of Variable V.
+	Ordered by how many other values assigning this value would remove.
 
 ## Time Complexity.
 c = # of arcs.

@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L5/Revising heuristic functions.md",
+                "file": "L8-9/Backtracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L5/Revising heuristic functions.md",
+                "file": "L8-9/Backtracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L5/Revising heuristic functions.md",
+                "file": "L8-9/Backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L5/Revising heuristic functions.md"
+                "file": "L8-9/Backtracking.md"
               }
             }
           }
@@ -269,17 +269,17 @@
   },
   "active": "d4949fad65c7caee",
   "lastOpenFiles": [
-    "README.md",
     "L8-9/AC-3.md",
-    "L8-9/CSP Problem Formulation.md",
-    "L5/Revising heuristic functions.md",
+    "README.md",
     "L8-9/Backtracking.md",
+    "L8-9/CSP Problem Formulation.md",
+    "L5/Revising A-Star.md",
+    "L5/Revising heuristic functions.md",
     "L6-7/Basic Idea of Pruning.md",
     "L6-7/Revising MINIMAX.md",
     "L6-7/How Pruning is Implemented in A-B Pruning.md",
     "L6-7/Revising EXPECTIMINIMAX.md",
     "L6-7/Revising Alpha-Beta Pruning.md",
-    "L5/Revising A-Star.md",
     "L5/Hill Climbing.md",
     "L8-9",
     "L6-7",
